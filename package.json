@@ -1,0 +1,19 @@
+{
+  "name": "obj-history",
+  "version": "1.0.0",
+  "description": "Object undo, redo & change history using Proxy",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "Sam Gluck <sdgluck@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "changeset": "0.2.1"
+  },
+  "devDependencies": {
+    "babili": "0.0.12",
+    "rimraf": "2.6.1",
+    "tape": "4.6.3"
+  }
+}
