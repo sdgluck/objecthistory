@@ -1,12 +1,13 @@
 {
   "name": "obj-history",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Object undo, redo & change history using Proxy",
   "main": "index.js",
   "scripts": {
     "test": "node test.js"
   },
   "author": "Sam Gluck <sdgluck@gmail.com>",
+  "repository": "sdgluck/objecthistory",
   "license": "MIT",
   "dependencies": {
     "changeset": "0.2.1"
