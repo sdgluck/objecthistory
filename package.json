@@ -1,6 +1,6 @@
 {
-  "name": "obj-history",
-  "version": "1.0.1",
+  "name": "objecthistory",
+  "version": "1.0.0",
   "description": "Object undo, redo & change history using Proxy",
   "main": "index.js",
   "scripts": {
