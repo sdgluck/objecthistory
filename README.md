@@ -1,12 +1,8 @@
-<p><h1 align="center">objecthistory</h1></p>
+<h1>objecthistory</h1>
 
-<p align="center">:four_leaf_clover: Object undo, redo & change history using Proxy</p>
+❤ Made at <a href="http://www.twitter.com/outlandish">@outlandish</a>
 
-<p align="center">Made with ❤ at <a href="http://www.twitter.com/outlandish">@outlandish</a></p>
-
-<hr/>
-
-:cookie: Simple undo and redo for objects.
+:four_leaf_clover: Simple undo and redo for objects.
 
 :sparkles: Compiled using [`babili`](https://github.com/babel/babili) for ES2015 environments.
 
