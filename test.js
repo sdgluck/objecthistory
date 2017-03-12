@@ -116,6 +116,8 @@ test('can get backward history', (t) => {
     { value: 'Ginsberg' },
     { value: 'Kazuo Ishiguro' }
   ])
+  enhanced.value = 'Are you an echo?'
+  t.equal(enhanced.$$index, 5)
   t.end()
 })
 
@@ -131,5 +133,7 @@ test('can get forward history', (t) => {
     { value: 'Ginsberg' },
     { value: 'Kazuo Ishiguro' }
   ])
+  enhanced.value = 'Are you an echo?'
+  t.equal(enhanced.$$index, 3)
   t.end()
 })
