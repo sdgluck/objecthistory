@@ -6,7 +6,7 @@
 
 <hr/>
 
-:cookie: Simple undo and redo for objects
+:cookie: Simple undo and redo for objects.
 
 :sparkles: Compiled using [`babili`](https://github.com/babel/babili) for ES2015 environments.
 
