@@ -1,6 +1,6 @@
 {
   "name": "objecthistory",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Object undo, redo & change history using Proxy",
   "main": "index.js",
   "scripts": {
@@ -15,8 +15,6 @@
     "changeset": "0.2.1"
   },
   "devDependencies": {
-    "babili": "0.0.12",
-    "rimraf": "2.6.1",
     "tape": "4.6.3"
   }
 }
