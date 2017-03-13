@@ -4,7 +4,6 @@
 
 :four_leaf_clover: Simple undo and redo for objects.
 
-:sparkles: Compiled using [`babili`](https://github.com/babel/babili) for ES2015 environments.
 
 :point_right: Use your preferred bundler and transpiler as required.
 
