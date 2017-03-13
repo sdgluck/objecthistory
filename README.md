@@ -1,9 +1,10 @@
 <h1>objecthistory</h1>
 
+<a href="http://badge.fury.io/js/objecthistory"><img alt="npm version" src="https://badge.fury.io/js/objecthistory.svg" /></a>
+
 ❤ Made at <a href="http://www.twitter.com/outlandish">@outlandish</a>
 
 :four_leaf_clover: Simple undo and redo for objects.
-
 
 :point_right: Use your preferred bundler and transpiler as required.
 
